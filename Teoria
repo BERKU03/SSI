@@ -1,1 +1,42 @@
-nbsbnfbnsv
+Seguridad informatica.
+    Un sistema informatico es seguro cuando responde segun lo previsto
+    que el usuario  pueda hacer todo par lo que tiene permiso y nada de lo que no 
+    este autorizado
+
+    Además, tambien garantiza a los usuarios legítimos tres cosas.
+        -confidencialidad
+        -Integridad
+        -Disponibilidad
+        se abrevian como CIA.
+    
+    Entonces, los objetivos de la seguridad informática son
+        -identificar vulnerabilidades
+        -Crear y configurar contramedidas contra ellas
+        -Evitar las amenazas existentes que explotan estas vulnerabilidades
+
+Clasificacion general de ataques contra datos y software
+    -confidencialidad
+    -Integridad
+    -Disponibilidad
+
+!Los datos son un objetivo!
+    -Los daatos deben estar protegidos
+    -se deben crear copias adicionales (copais de seguridad)
+    -Los detalles y las politicas de copia de seguridad se ven en ASR
+
+Terminología Básica:Metadatos
+    -Datos que proporcionan información sobre otros datos
+    -Los metadatos de un archivo proporcionan informacion sobre un archivo en sí,
+    en lugar de sus contenido
+    -Ayuda a la busqueda, gestion y clasificaion de archivos
+
+    Conceptos relacionados con ataques
+        -amenazas
+        -vulnerabilidades
+        -Payload
+        -Exploit
+
+Vulnerabilidades comunes y exposiciones
+    -Informacion de vulnerabilidades de seguridad conocidas publicamente de cualquier software
+    -accesible de forma gratuita
+    -podemos hablar un idioma común
