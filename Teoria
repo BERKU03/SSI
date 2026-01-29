@@ -34,9 +34,73 @@ Terminología Básica:Metadatos
         -amenazas
         -vulnerabilidades
         -Payload
-        -Exploit
+        -Exploit: Aprovechar una vulnerabilidad
 
-Vulnerabilidades comunes y exposiciones
+Vulnerabilidades comunes y exposiciones (CVE)
     -Informacion de vulnerabilidades de seguridad conocidas publicamente de cualquier software
     -accesible de forma gratuita
     -podemos hablar un idioma común
+
+ CVSS:
+ 	-El CVE es como un glosario que clasifica las vulnerabilidades conocidas
+ 	-La gravedead de esas vulnerabilidades se puntua con la puntuacion cvss
+
+Seguridad defensiva
+	control o contrasmedida: Mitiga o elimina un riesgo
+
+
+UN HACKER NO ES UN CRIMINAL
+	.Script kiddis o noobs
+	-Pentesters (white aht hackers)
+	-Crackers (Black hat hackers)
+
+Los profesionales se dividen en:
+	-Red team
+	-Blue team
+	-Purple team
+
+TIPOS DE MALWARE
+	1.Malware
+		ESte es un software que s epuede crear para el bien o para el mal.
+		Tien muchas clasificaiones. virus,gusano,troyano...
+
+	2.Ransomware
+		EL mas popular hoy en dia. son lso que te secuestra informacion y normalmente te piden dinero a cambio para dartelo
+		aunque no es seguro que te lo den
+
+		Tambien existe Ransomware -as-a-Service (Raas)
+		La solucion es usar copias de seguridad sin infectar
+
+
+CONCEPTOS BASICOS SOBRE REDES.
+	Direcciones IP
+		-IPv4(32 bits): son cuatro octetos separados por puntos. 192.168.1.25
+		.IPv6(128 bits): ocho grupos de 4 hexadecimales separados por : 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+	Puertos de red
+		-una misma maquina puede tener mcuhso servicios, uno por puerto
+		-La IP es la direccion d ela maquina ala que nos conectamos
+		-el puerto amrca que servicio de todos los que ofrece la maqiona se utiliza en esa direccion IP
+		-Hay 65.536 puertos diferentes posibles en una maquina
+			-Los primeros 1024 puertos estan reservados para servicios conocidos tipicos como ssh y https
+		-Abrir un puerto significa que una máquina ofrece un servicio al exterior.
+		-Los puertos pueden ser bloqueados o restringiddos usando el firewall
+
+	Servicios
+		-Son los programas que se ejecutan asociados a un puerto de red
+			estan esperando conexiones entrantes de los clientes, cuando la reciben,
+			procesa la solicitud y finalmente envia una respuesta
+
+USUARIOS
+	-Privacidad: basicamente todos mis datos son dinero, la mayoria de servicios son gratis porque pago con mis datos d enavegacion
+	-Spam:Correo electronco fraudulento/no deseado enviado masivamente conmultiples objetivos
+	-Phishing:Mensajes malicionsos que parecen legitimos (sms de bancos mitico), se esta volvienod muy sofisticado y especifico
+	
+
+OSINT
+	-COnjuntos de datos reocpilados de fuentes publicas
+	-segun el departamento de defensa de EEUU e sinformacion que se explota 
+	-ES un conjunto de informacion pubñica legalmente accesibel
+	-Exissten herramientas OSINT especializadas para cada fuente de datos
+
+    

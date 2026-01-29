@@ -1,0 +1,11 @@
+Los datos s epueden dividir en 
+	-Tecnicas que ocultan su existencia
+	-tecnicas que ocultan su significado
+
+Ocultar la existencia de informacion
+	-Codificacion: convierte los datos a un formato ddiferencte usando un esquema que s epuede revertir f,acilmente
+		No esta pensado para proteger datos
+	-Esteganografia:Informacion incrustada dentro de otra informacion "portadora"
+	-Ofuscacion y MInificacion de codigo:Dos tecnicas adicinales d eocultacion de datos que conservan la funcionalidad original en caso de que sea codigo
+	-Tokenizacion:susttuir datos confidenciales por palceholders no confidenciales denominados tokens
+		La tokenizacion es altamente segura, suele ser un requisito
